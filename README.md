@@ -1,15 +1,15 @@
-# [Nombre de tu emprendimiento] · Sitio WordPress
+# Elysa · Sitio WordPress
 
 > **Este README es tuyo.** Complétalo mientras construyes tu sitio y borra las instrucciones entre paréntesis. Las instrucciones del proyecto están en [`indicaciones/README.md`](indicaciones/README.md).
 
-- **Sitio en producción:** (URL de InfinityFree)
-- **Prototipo en Stitch:** (enlace)
-- **Repo del Parcial 02:** (enlace a `mi-emprendimiento`)
-- **Autor/a:** (nombre y sección)
+- **Sitio en producción:** https://elysa.free.nf/?i=1
+- **Prototipo en Stitch:** https://stitch.withgoogle.com/projects/13663528510219468781
+- **Repo del Parcial 02:** https://github.com/gabrielapino19/mi-emprendimiento.git
+- **Autor/a:** Gabriela Pino, sección 001D
 
 ## Contexto de la web
 
-(3 a 5 líneas: qué es tu emprendimiento, a quién le vende, qué problema resuelve el sitio y qué quieres que haga la persona cuando llega. Apóyate en tu proto-persona y tu brief del Parcial 02.)
+Elysa es un emprendimiento dedicado al bienestar integral, que ofrece terapias holísticas y productos personalizados para el equilibrio emocional y energético. Está dirigido a personas interesadas en el autocuidado, el autoconocimiento y las alternativas complementarias para su bienestar. El sitio web busca facilitar el acceso a información sobre nuestros servicios y productos, resolviendo las dificultades para conocerlos y encontrar una forma de contacto. Queremos que las personas conozcan Elysa, exploren nuestras opciones y se animen a consultar o solicitar nuestros servicios.
 
 ## Mi tema
 
